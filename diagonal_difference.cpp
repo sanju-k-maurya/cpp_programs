@@ -1,3 +1,4 @@
+//This code calculates absolute difference of both diagonals of given a square matrix. 
 #include<iostream>
 #include<cstdlib>
 using namespace std;

@@ -1,3 +1,4 @@
+//This code converts time entered in AM/PM format to 24 hour format.
 #include<iostream>
 using namespace std;
 int main()
