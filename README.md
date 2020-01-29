@@ -1,5 +1,5 @@
 ## C++ programs.
 
-This repository contains c++ programs for beginners.
+This repository contains c++ programs.
 
 
