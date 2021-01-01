@@ -1,6 +1,5 @@
 //This code converts time entered in AM/PM format to 24 hour format.
 /*
-Changes in new branch
 Given a time in 12-hour AM/PM format, convert it to military (24-hour) time.
 
 Note: - 12:00:00AM on a 12-hour clock is 00:00:00 on a 24-hour clock.
